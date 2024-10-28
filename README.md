@@ -1,6 +1,6 @@
-# 🏰 Stacy - Minecraft Server Status Bot
+# 🏰 McStatusBot - Minecraft Server Status Bot
 
-**Stacy** is a cute and cool Discord bot designed to fetch and display the status of Minecraft servers (Java or Bedrock) with a stylish embed. Powered by `mcstatus.io`, Stacy provides live updates on player counts, server versions, and online/offline status!
+**McStatusBot** is a cute and cool Discord bot designed to fetch and display the status of Minecraft servers (Java or Bedrock) with a stylish embed. Powered by `mcstatus.io`, Stacy provides live updates on player counts, server versions, and online/offline status!
 
 ## 🚀 Features
 
