@@ -8,11 +8,11 @@
 - 💬 **Stylish Embed Messages**: Get server information with a clean and colorful embed.
 - 👥 **Live Player Count**: See how many players are currently online.
 - 🛠️ **Version Information**: View the Minecraft server version.
-- ⚠️ **Error Handling**: Stacy will let you know if there's a problem fetching server data.
+- ⚠️ **Error Handling**: McStatusBot will let you know if there's a problem fetching server data.
 
 ## 🛠️ Setup
 
-Follow these steps to get Stacy up and running on your own server.
+Follow these steps to get McStatusBot up and running on your own server.
 
 ### Prerequisites
 
@@ -25,7 +25,7 @@ Follow these steps to get Stacy up and running on your own server.
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/oxyzox/stacy-bot.git
+   git clone https://github.com/oxyzox/McStatusBot.git
    cd stacy-bot
     ```
 
